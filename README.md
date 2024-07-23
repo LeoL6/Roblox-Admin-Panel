@@ -1,5 +1,6 @@
 # Roblox Admin Panel
-Designed and Developed by myself and Nathaniel Whitaker
+Designed and Developed by myself and Nathaniel Whitaker.
+Written completely in LUA
 
 # Showcase
 Overview of the panel

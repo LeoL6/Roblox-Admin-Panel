@@ -5,7 +5,7 @@ Written completely in LUA
 # Showcase
 Overview of the panel
 
-![Image of Panel](https://github.com/user-attachments/assets/8328fe5a-14b2-4288-a751-120ffd121700)
+![Image of Panel](https://github.com/user-attachments/assets/9a65af8f-93b3-4834-bace-4e758733c460)
 
 Discord Webhook integration
 

@@ -9,4 +9,4 @@ Overview of the panel
 
 Discord Webhook integration
 
-![API](https://github.com/user-attachments/assets/b8f5918d-0377-4a4f-bbdc-d0c72875035e)
+![API](https://github.com/user-attachments/assets/4281f18b-58f6-4e68-a5b9-7798f688d711)
